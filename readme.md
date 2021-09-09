@@ -1,3 +1,6 @@
 # My First Project
 
-Here is a cool GitHub reposiotry
+Here is a cool GitHub repository
+
+
+Adding something new
